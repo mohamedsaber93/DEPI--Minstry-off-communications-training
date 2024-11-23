@@ -1,0 +1,19 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Tic Tac Toe</string>
+
+
+    <!-- Strings for game status and buttons -->
+    <string name="status">Status</string>
+    <string name="play_again">Play Again</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="player_one_score">Player-1 Score</string>
+    <string name="player_two_score">Player-2 Score</string>
+
+    <!-- Mode Selection -->
+    <string name="player_vs_player">Player vs Player</string>
+    <string name="player_vs_computer">Player vs Computer</string>
+
+    <!-- Difficulty Level -->
+    <string name="difficulty">Difficulty:</string>
+</resources>

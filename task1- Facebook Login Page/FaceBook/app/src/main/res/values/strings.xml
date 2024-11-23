@@ -1,0 +1,17 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">MyApp</string>
+
+    <!-- Facebook Logo Description -->
+    <string name="facebook_logo">Facebook Logo</string>
+
+    <!-- Placeholder Texts -->
+    <string name="email">Email or Phone Number</string>
+    <string name="password">Password</string>
+
+    <!-- Button Text -->
+    <string name="login">Log In</string>
+
+    <!-- Forgot Password Text -->
+    <string name="forgot_password">Forgot Password?</string>
+</resources>

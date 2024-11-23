@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">X_O</string>
+    <string name="choose_mode">Choose your play mode</string>
+    <string name="with_ai">With Ai</string>
+    <string name="with_friend">With Friend</string>
+    <string name="pick_side">Pick your side</string>
+    <string name="continu">Continue</string>
+    <string name="setting">Settings</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="reset">Reset setting</string>
+    <string name="yourname">Enter your name</string>
+    <string name="friendname">Enter your friend name</string>
+    <string name="players">Players</string>
+    <string name="play_now">Play Now</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="level1">Level 1</string>
+    <string name="level2">Level 2</string>
+    <string name="level3">Level 3</string>
+    <string name="game">Game</string>
+    <string name="won">Won</string>
+    <string name="you">You</string>
+    <string name="draw">Players draw</string>
+    <string name="contact">Contact us</string>
+
+
+</resources>

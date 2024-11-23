@@ -1,0 +1,7 @@
+to create bloc or cubit bloc 
+1- create states 
+2- create cubit
+3- create function
+4- provide cubit
+5- integerate cubit
+6- trigger cubit

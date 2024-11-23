@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X_O</string>
+    <string name="choose_mode">اختر وضع اللعب الذى تريده</string>
+    <string name="with_ai">مع الكمبيوتر</string>
+    <string name="with_friend">مع صديق</string>
+    <string name="pick_side">اختار تحب تلعب X ولا O</string>
+    <string name="continu" >ادخل</string>
+    <string name="setting">الاعدادات</string>
+    <string name="light">وضع فاتح</string>
+    <string name="dark">وضع ليلى</string>
+    <string name="reset">ارجاع الاعدادات</string>
+    <string name="yourname">ادخل اسمك</string>
+    <string name="friendname">ادخل اسم صديقك</string>
+    <string name="players">اللاعبين</string>
+    <string name="play_now">العب الان</string>
+    <string name="select_difficulty">اختار مدى الصعوبة</string>
+    <string name="level1">المستوى الاول</string>
+    <string name="level2">المستوى الثانى</string>
+    <string name="level3">المستوى الثالث</string>
+    <string name="game">العب</string>
+    <string name="won">الفائز</string>
+    <string name="you">انت</string>
+    <string name="draw">تعادل</string>
+    <string name="contact">تواصل معنا</string>
+
+
+
+
+
+</resources>

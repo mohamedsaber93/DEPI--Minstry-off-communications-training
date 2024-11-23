@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="convert">#000000</color>
+    <color name="convert_shadow">#FFFFFFFF</color>
+
+    <color name="hint">#CCFFFFFF</color>
+
+    <color name="table">#998C8C8C</color>
+    <color name="cell">#CC333333</color>
+
+    <color name="easy">#B300AFFF</color>
+    <color name="medium">#B3FF9900</color>
+    <color name="difficult">#B3FF0000</color>
+
+
+    <color name="primary_color">#FFFFFFFF</color>
+    <color name="primary_variant_color">#FFFFFFFF</color>
+    <color name="on_primary_color">#FFFFFFFF</color>
+    <color name="secondary_color">#FFFFFFFF</color>
+    <color name="on_secondary_color">#FFFFFFFF</color>
+    <color name="background_color">#FFFFFFFF</color>
+    <color name="surface_color">#FFFFFFFF</color>
+    <color name="on_background_color">#FFFFFFFF</color>
+    <color name="on_surface_color">#802C2C2C</color>
+    <color name="text_primary_color">#E2262626</color>
+    <color name="text_secondary_color">#FFFFFFFF</color>
+
+    <color name="player_shadow">#99949494</color>
+
+
+</resources>
