@@ -1,0 +1,5 @@
+*.ext filter=lfs diff=lfs merge=lfs -text
+graduation[[:space:]]project[[:space:]]kotlin[[:space:]]-[[:space:]]android filter=lfs diff=lfs merge=lfs -text
+Kotlin[[:space:]]Tasks[[:space:]]Solutions.docx filter=lfs diff=lfs merge=lfs -text
+task-flutter[[:space:]]login[[:space:]]page filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
